@@ -27,13 +27,13 @@ Frontend Developer from Ukraine
       <a href="#ndiuky-stack">
         <img src="https://raw.githubusercontent.com/ndiuky/devicon/refs/heads/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
       </a>
-      <br>Html5
+      <br>Html
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#ndiuky-stack" >
         <img src="https://raw.githubusercontent.com/ndiuky/devicon/refs/heads/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
       </a>
-      <br>Css3
+      <br>Css
     </td>
     <td align="center" width="110" height="90">
       <a href="#ndiuky-stack" >
