@@ -140,7 +140,7 @@ Frontend Developer from Ukraine
     </td>
      <td align="center" width="110" height="90"> 
       <a href="#ndiuky-stack" >
-        <img src="https://user-images.githubusercontent.com/378279/27998811-43b9906e-6515-11e7-835a-6f596506cc46.png"  alt="Storybook" />
+        <img src="https://user-images.githubusercontent.com/378279/27998811-43b9906e-6515-11e7-835a-6f596506cc46.png"  alt="Loki" />
       </a>
       <br>Loki
     </td>
@@ -156,6 +156,12 @@ Frontend Developer from Ukraine
         <img src="https://raw.githubusercontent.com/ndiuky/devicon/refs/heads/master/icons/eslint/eslint-original.svg" width="36" height="36" alt="Eslint" />
       </a>
       <br>Eslint
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#ndiuky-stack">
+        <img src="https://raw.githubusercontent.com/hipstersmoothie/stylelint-formatter-github/HEAD/logo.png" width="36" height="36" alt="Stylelint" />
+      </a>
+      <br>Stylelint
     </td>
     <td align="center" width="110" height="90">
       <a href="#ndiuky-stack">
