@@ -92,9 +92,7 @@ Frontend Developer from Ukraine
       </a>
       <br>Zustand
     </td>
-  </tr> 
-  <tr>
-    <td align="center" width="110" height="90"> 
+        <td align="center" width="110" height="90"> 
       <a href="#ndiuky-stack" >
         <img src="https://raw.githubusercontent.com/ndiuky/devicon/refs/heads/master/icons/webpack/webpack-original.svg" width="36" height="36" alt="Webpack" />
       </a>
@@ -106,6 +104,8 @@ Frontend Developer from Ukraine
       </a>
       <br>Vite
     </td> 
+  </tr> 
+  <tr>
     <td align="center" width="110" height="90">
       <a href="#ndiuky-stack">
         <img src="https://raw.githubusercontent.com/ndiuky/devicon/refs/heads/master/icons/sass/sass-original.svg" width="36" height="36" alt="Sass" />
