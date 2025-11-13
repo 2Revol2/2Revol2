@@ -1,7 +1,4 @@
 <h1 align="left">🖐 Hello there! I'm Maksym</h1>
-<br>
-
-Frontend Developer from Ukraine
 
 <br>
 
