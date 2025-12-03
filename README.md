@@ -1,7 +1,6 @@
 <h1 align="left">🖐 Hello there! I'm Maksym</h1>
 
 <br>
-
 <h2 align="left" id="ndiuky-stack">🔥 Tech stack</h2>
 
 > General
